@@ -1,0 +1,117 @@
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV1-4K" tvg-id="CCTV1-4K" tvg-name="CCTV1-4K" group-title="未分组",CCTV1-4K
+http://[2409:8087:2001:20:2800:0:df6e:eb11]:80/ott.mobaibox.com/PLTV/1/224/3221228213/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV2" tvg-id="CCTV2" tvg-name="CCTV2" group-title="未分组",CCTV2
+http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV3" tvg-id="CCTV3" tvg-name="CCTV3" group-title="未分组",CCTV3
+http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/1/224/3221228188/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV4" tvg-id="CCTV4" tvg-name="CCTV4" group-title="未分组",CCTV4
+http://[2409:8087:2001:20:2800:0:df6e:eb16]:80/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5" tvg-name="CCTV5" group-title="未分组",CCTV5
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV5" tvg-id="CCTV5+" tvg-name="CCTV5+" group-title="未分组",CCTV5+
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/1/224/3221228277/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV6" tvg-id="CCTV6" tvg-name="CCTV6" group-title="未分组",CCTV6
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV7" tvg-id="CCTV7" tvg-name="CCTV7" group-title="未分组",CCTV7
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8" tvg-id="CCTV8" tvg-name="CCTV8" group-title="未分组",CCTV8
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV9" tvg-id="CCTV9" tvg-name="CCTV9" group-title="未分组",CCTV9
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/ott.mobaibox.com/PLTV/3/224/3221227659/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV10" tvg-id="CCTV10" tvg-name="CCTV10" group-title="未分组",CCTV10
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV11" tvg-id="CCTV11" tvg-name="CCTV11" group-title="未分组",CCTV11
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV12" tvg-id="CCTV12" tvg-name="CCTV12" group-title="未分组",CCTV12
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV13" tvg-id="CCTV13" tvg-name="CCTV13" group-title="未分组",CCTV13
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV14" tvg-name="CCTV14" group-title="未分组",CCTV14
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV14" tvg-id="CCTV15" tvg-name="CCTV15" group-title="未分组",CCTV15
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/ott.mobaibox.com/PLTV/3/224/3221227723/index.m3u8
+#EXTINF:-1,CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV17" tvg-id="CCTV17" tvg-name="CCTV17" group-title="未分组",CCTV17
+http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/ott.mobaibox.com/PLTV/3/224/3221227726/index.m3u8
+#EXTINF:-1,江苏移动影视轮播
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1,江苏移动8K测试
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/湖南卫视" tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="未分组",湖南卫视
+http://ott.mobaibox.com/PLTV/1/224/3221228227/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/山东卫视" tvg-id="山东卫视" tvg-name="山东卫视" group-title="未分组",山东卫视
+http://ott.mobaibox.com/PLTV/1/224/3221228315/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="未分组",江苏卫视
+http://ott.mobaibox.com/PLTV/1/224/3221228306/index.m3u8
+#EXTINF:-1,兵器科技
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
+#EXTINF:-1,电视指南
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
+#EXTINF:-1,央视台球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+#EXTINF:-1,高尔夫网球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
+#EXTINF:-1,世界地理,
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
+#EXTINF:-1,怀旧剧场,
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+#EXTINF:-1,文化精品
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
+#EXTINF:-1,风云剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+#EXTINF:-1,第一剧场
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
+#EXTINF:-1,风云音乐
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1,风云足球
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
+#EXTINF:-1,女性时尚
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
+#EXTINF:-1,CHC家庭影院
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+#EXTINF:-1,CHC动作电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+#EXTINF:-1,CHC高清电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+#EXTINF:-1,超级电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+#EXTINF:-1,动作电影
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:-1,NewTV惊悚悬疑
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
+#EXTINF:-1,4K修复
+http://ott.mobaibox.com/PLTV/2/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东方卫视" tvg-id="东方卫视" tvg-name="东方卫视" group-title="未分组",东方卫视
+http://ott.mobaibox.com/PLTV/1/224/3221228425/index.m3u8
+#EXTINF:-1,奥特曼频道
+http://ott.mobaibox.com/PLTV/1/224/3221228456/index.m3u8
+#EXTINF:-1,4KUHD
+http://ott.mobaibox.com/PLTV/1/224/3221228472/index.m3u8
+#EXTINF:-1,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/凤凰卫视香港台" tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" group-title="未分组",凤凰卫视香港台
+http://ott.mobaibox.com/PLTV/1/224/3221228530/index.m3u8
+#EXTINF:-1,BILI小电视2
+http://ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
+#EXTINF:-1,儿童频道
+http://ott.mobaibox.com/PLTV/1/224/3221228638/index.m3u8
+#EXTINF:-1,二更
+http://ott.mobaibox.com/PLTV/1/224/3221228441/index.m3u8
+#EXTINF:-1,百姓生活
+http://ott.mobaibox.com/PLTV/1/224/3221228466/index.m3u8
+#EXTINF:-1,咪咕视频
+http://ott.mobaibox.com/PLTV/2/224/3221228129/index.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/CCTV8k" tvg-id="CCTV8k" tvg-name="CCTV8k" group-title="未分组",CCTV8K
+http://ott.mobaibox.com/PLTV/2/224/3221228165/index.m3u8
+#EXTINF:-1,咪咕视频
+http://ott.mobaibox.com/PLTV/2/224/3221228206/index.m3u8
+#EXTINF:-1,咪咕视频（健身）
+http://ott.mobaibox.com/PLTV/2/224/3221228427/index.m3u8
+#EXTINF:-1,知否知否
+http://ott.mobaibox.com/PLTV/2/224/3221228465/index.m3u8
+#EXTINF:-1,电视剧频道
+http://ott.mobaibox.com/PLTV/2/224/3221228441/index.m3u8
