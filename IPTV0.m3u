@@ -43,16 +43,8 @@ http://ott.mobaibox.com/PLTV/1/224/3221228227/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228315/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/江苏卫视" tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="未分组",江苏卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228306/index.m3u8
-#EXTINF:-1,CHC家庭影院
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
-#EXTINF:-1,CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
-#EXTINF:-1,CHC高清电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1,东森电影
 http://50.7.238.114:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-#EXTINF:-1,龙华电影
-http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBAB2096754620967546&ct=18392&tsum=2c800c1f0b6cc98d2404608c294dcbc2
 #EXTINF:-1,龙祥电影
 http://50.7.238.114:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
 #EXTINF:-1,超级电影
@@ -75,12 +67,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/凤凰卫视香港台" tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" group-title="未分组",凤凰卫视香港台
 http://ott.mobaibox.com/PLTV/1/224/3221228530/index.m3u8
-#EXTINF:-1,BILI小电视2
-http://ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
-#EXTINF:-1,儿童频道
-http://ott.mobaibox.com/PLTV/1/224/3221228638/index.m3u8
-#EXTINF:-1,二更
-http://ott.mobaibox.com/PLTV/1/224/3221228441/index.m3u8
 #EXTINF:-1,百姓生活
 http://ott.mobaibox.com/PLTV/1/224/3221228466/index.m3u8
 #EXTINF:-1,咪咕视频（1）
@@ -94,4 +80,8 @@ http://ott.mobaibox.com/PLTV/2/224/3221228427/index.m3u8
 #EXTINF:-1,电视剧频道1
 http://ott.mobaibox.com/PLTV/2/224/3221228465/index.m3u8
 #EXTINF:-1,电视剧频道2
-http://ott.mobaibox.com/PLTV/2/224/3221228441/index.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 ,南京十八频道
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
+#EXTINF:-1 ,南京教科
+http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
