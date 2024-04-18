@@ -87,7 +87,7 @@ http://ott.mobaibox.com/PLTV/1/224/3221228193/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228194/index.m3u8
 #EXTINF:-1 ,浙江卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228204/index.m3u8
-#EXTINF:-1 ,Unknown_107
+#EXTINF:-1 ,体育
 http://ott.mobaibox.com/PLTV/1/224/3221228206/index.m3u8
 #EXTINF:-1 ,地方台
 http://ott.mobaibox.com/PLTV/1/224/3221228208/index.m3u8
@@ -117,7 +117,7 @@ http://ott.mobaibox.com/PLTV/1/224/3221228231/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228233/index.m3u8
 #EXTINF:-1 ,深圳卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228236/index.m3u8
-#EXTINF:-1 ,Unknown_138
+#EXTINF:-1 ,CCTV3
 http://ott.mobaibox.com/PLTV/1/224/3221228237/index.m3u8
 #EXTINF:-1 ,天津卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228239/index.m3u8
@@ -239,33 +239,25 @@ http://ott.mobaibox.com/PLTV/1/224/3221228610/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228612/index.m3u8
 #EXTINF:-1 ,江苏教育
 http://ott.mobaibox.com/PLTV/1/224/3221228613/index.m3u8
-#EXTINF:-1 ,Unknown_515
-http://ott.mobaibox.com/PLTV/1/224/3221228614/index.m3u8
-#EXTINF:-1 ,Unknown_516
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228615/index.m3u8
 #EXTINF:-1 ,CCTV2
 http://ott.mobaibox.com/PLTV/1/224/3221228616/index.m3u8
-#EXTINF:-1 ,Unknown_518
-http://ott.mobaibox.com/PLTV/1/224/3221228617/index.m3u8
-#EXTINF:-1 ,Unknown_519
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228618/index.m3u8
 #EXTINF:-1 ,CCTV9
 http://ott.mobaibox.com/PLTV/1/224/3221228619/index.m3u8
-#EXTINF:-1 ,Unknown_521
-http://ott.mobaibox.com/PLTV/1/224/3221228620/index.m3u8
-#EXTINF:-1 ,Unknown_522
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228621/index.m3u8
 #EXTINF:-1 ,CCTV15
 http://ott.mobaibox.com/PLTV/1/224/3221228622/index.m3u8
-#EXTINF:-1 ,Unknown_524
-http://ott.mobaibox.com/PLTV/1/224/3221228623/index.m3u8
-#EXTINF:-1 ,Unknown_525
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228624/index.m3u8
 #EXTINF:-1 ,CCTV16
 http://ott.mobaibox.com/PLTV/1/224/3221228625/index.m3u8
 #EXTINF:-1 ,三沙卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228626/index.m3u8
-#EXTINF:-1 ,Unknown_528
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228627/index.m3u8
 #EXTINF:-1 ,CCTV17
 http://ott.mobaibox.com/PLTV/1/224/3221228628/index.m3u8
@@ -279,7 +271,7 @@ http://ott.mobaibox.com/PLTV/1/224/3221228631/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228633/index.m3u8
 #EXTINF:-1 ,贵州卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228634/index.m3u8
-#EXTINF:-1 ,Unknown_536
+#EXTINF:-1 ,广场舞
 http://ott.mobaibox.com/PLTV/1/224/3221228635/index.m3u8
 #EXTINF:-1 ,CCTV14
 http://ott.mobaibox.com/PLTV/1/224/3221228636/index.m3u8
@@ -297,7 +289,7 @@ http://ott.mobaibox.com/PLTV/1/224/3221228641/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228642/index.m3u8
 #EXTINF:-1 ,CCTV7
 http://ott.mobaibox.com/PLTV/1/224/3221228643/index.m3u8
-#EXTINF:-1 ,Unknown_545
+#EXTINF:-1 ,影视
 http://ott.mobaibox.com/PLTV/1/224/3221228644/index.m3u8
 #EXTINF:-1 ,安徽卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228645/index.m3u8
@@ -311,10 +303,6 @@ http://ott.mobaibox.com/PLTV/1/224/3221228652/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228654/index.m3u8
 #EXTINF:-1 ,CCTV第一剧场
 http://ott.mobaibox.com/PLTV/1/224/3221228659/index.m3u8
-#EXTINF:-1 ,Unknown_561
-http://ott.mobaibox.com/PLTV/1/224/3221228660/index.m3u8
-#EXTINF:-1 ,Unknown_562
-http://ott.mobaibox.com/PLTV/1/224/3221228661/index.m3u8
 #EXTINF:-1 ,CCTV风云剧场
 http://ott.mobaibox.com/PLTV/1/224/3221228662/index.m3u8
 #EXTINF:-1 ,电视剧
@@ -345,57 +333,55 @@ http://ott.mobaibox.com/PLTV/1/224/3221228686/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228689/index.m3u8
 #EXTINF:-1 ,CETV早期教育
 http://ott.mobaibox.com/PLTV/1/224/3221228692/index.m3u8
-#EXTINF:-1 ,Unknown_596
+#EXTINF:-1 ,环球奇观
 http://ott.mobaibox.com/PLTV/1/224/3221228695/index.m3u8
-#EXTINF:-1 ,Unknown_599
+#EXTINF:-1 ,国学频道
 http://ott.mobaibox.com/PLTV/1/224/3221228698/index.m3u8
-#EXTINF:-1 ,Unknown_602
+#EXTINF:-1 ,汽摩
 http://ott.mobaibox.com/PLTV/1/224/3221228701/index.m3u8
-#EXTINF:-1 ,Unknown_605
+#EXTINF:-1 ,中央新影中学生
 http://ott.mobaibox.com/PLTV/1/224/3221228704/index.m3u8
-#EXTINF:-1 ,Unknown_611
+#EXTINF:-1 ,繁花
 http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
-#EXTINF:-1 ,Unknown_614
+#EXTINF:-1 ,体育
 http://ott.mobaibox.com/PLTV/1/224/3221228713/index.m3u8
-#EXTINF:-1 ,Unknown_617
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228716/index.m3u8
-#EXTINF:-1 ,Unknown_620
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228719/index.m3u8
-#EXTINF:-1 ,Unknown_623
-http://ott.mobaibox.com/PLTV/1/224/3221228722/index.m3u8
-#EXTINF:-1 ,Unknown_626
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228725/index.m3u8
-#EXTINF:-1 ,Unknown_629
+#EXTINF:-1 ,江苏影视
 http://ott.mobaibox.com/PLTV/1/224/3221228728/index.m3u8
-#EXTINF:-1 ,Unknown_632
+#EXTINF:-1 ,江苏综艺
 http://ott.mobaibox.com/PLTV/1/224/3221228731/index.m3u8
-#EXTINF:-1 ,Unknown_635
+#EXTINF:-1 ,江苏城市
 http://ott.mobaibox.com/PLTV/1/224/3221228734/index.m3u8
-#EXTINF:-1 ,Unknown_638
+#EXTINF:-1 ,体育
 http://ott.mobaibox.com/PLTV/1/224/3221228737/index.m3u8
-#EXTINF:-1 ,Unknown_641
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228740/index.m3u8
-#EXTINF:-1 ,Unknown_644
+#EXTINF:-1 ,江苏新闻
 http://ott.mobaibox.com/PLTV/1/224/3221228743/index.m3u8
-#EXTINF:-1 ,Unknown_647
+#EXTINF:-1 ,江苏体育休闲
 http://ott.mobaibox.com/PLTV/1/224/3221228746/index.m3u8
-#EXTINF:-1 ,Unknown_650
+#EXTINF:-1 ,江西卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228749/index.m3u8
-#EXTINF:-1 ,Unknown_653
+#EXTINF:-1 ,河北卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228752/index.m3u8
-#EXTINF:-1 ,Unknown_656
+#EXTINF:-1 ,北京纪实科教
 http://ott.mobaibox.com/PLTV/1/224/3221228755/index.m3u8
-#EXTINF:-1 ,Unknown_659
+#EXTINF:-1 ,CCTV9
 http://ott.mobaibox.com/PLTV/1/224/3221228758/index.m3u8
-#EXTINF:-1 ,Unknown_662
+#EXTINF:-1 ,CCTV10
 http://ott.mobaibox.com/PLTV/1/224/3221228761/index.m3u8
-#EXTINF:-1 ,Unknown_665
+#EXTINF:-1 ,江苏卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228764/index.m3u8
-#EXTINF:-1 ,Unknown_668
+#EXTINF:-1 ,南京影视
 http://ott.mobaibox.com/PLTV/1/224/3221228767/index.m3u8
-#EXTINF:-1 ,Unknown_671
+#EXTINF:-1 ,南京科教
 http://ott.mobaibox.com/PLTV/1/224/3221228770/index.m3u8
-#EXTINF:-1 ,Unknown_674
+#EXTINF:-1 ,江苏卫视
 http://ott.mobaibox.com/PLTV/1/224/3221228773/index.m3u8
-#EXTINF:-1 ,Unknown_677
+#EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228776/index.m3u8
