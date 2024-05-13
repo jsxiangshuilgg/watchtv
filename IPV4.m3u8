@@ -13,12 +13,8 @@ http://ott.mobaibox.com/PLTV/1/224/3221228173/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228114/index.m3u8
 #EXTINF:-1 ,CCTV6
 http://ott.mobaibox.com/PLTV/1/224/3221228185/index.m3u8
-#EXTINF:-1 ,CHC影迷电影
-http://223.109.210.41/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel43063/index.m3u8
-#EXTINF:-1 ,CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1036_1.m3u8
 #EXTINF:-1 ,CHC动作电影
-http://58.19.38.162:9901/tsfile/live/1037_1.m3u8
+http://115.60.241.249:2000/rtp/225.1.4.208:1261
 #EXTINF:-1 ,CCTV7
 http://ott.mobaibox.com/PLTV/1/224/3221228643/index.m3u8
 #EXTINF:-1 ,CCTV8
@@ -141,8 +137,6 @@ http://ott.mobaibox.com/PLTV/2/224/3221228652/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228767/index.m3u8
 #EXTINF:-1 ,南京科教
 http://ott.mobaibox.com/PLTV/1/224/3221228770/index.m3u8
-#EXTINF:-1 ,南京直播
-http://ott.mobaibox.com/PLTV/1/224/3221228589/index.m3u8
 #EXTINF:-1 ,直播南京
 http://ott.mobaibox.com/PLTV/1/224/3221228612/index.m3u8
 #EXTINF:-1 ,凤凰资讯
@@ -287,4 +281,7 @@ http://ott.mobaibox.com/PLTV/1/224/3221228454/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228206/index.m3u8
 #EXTINF:-1 ,广场舞
 http://ott.mobaibox.com/PLTV/1/224/3221228635/index.m3u8
+#EXTINF:-1 ,其他
+http://ott.mobaibox.com/PLTV/1/224/3221228589/index.m3u8
+
 
