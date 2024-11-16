@@ -47,10 +47,6 @@ http://ott.mobaibox.com/PLTV/1/224/3221228141/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228644/index.m3u8
 #EXTINF:-1 ,明星大片
 http://[2409:8087:1a0b:df::4005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
-#EXTINF:-1 ,黑莓动画
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 ,北京纪实科教
 http://ott.mobaibox.com/PLTV/1/224/3221228755/index.m3u8
 #EXTINF:-1 ,纪实人文
@@ -65,12 +61,8 @@ http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000009/index.m3u8?
 http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 ,精品纪录
 http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8
-#EXTINF:-1 ,金鹰纪实
-http://ott.mobaibox.com/PLTV/1/224/3221228110/index.m3u8
 #EXTINF:-1 金鹰纪实
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031203/1.m3u8
-#EXTINF:-1 ,纪实科教8K
-http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 ,乐游频道
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031112/1.m3u8
 #EXTINF:-1 ,精品大剧
@@ -225,7 +217,6 @@ http://ott.mobaibox.com/PLTV/1/224/3221228621/index.m3u8
 http://ott.mobaibox.com/PLTV/1/224/3221228624/index.m3u8
 #EXTINF:-1 ,电视剧
 http://ott.mobaibox.com/PLTV/1/224/3221228627/index.m3u8
-
 #EXTINF:-1 ,繁花
 http://ott.mobaibox.com/PLTV/1/224/3221228710/index.m3u8
 #EXTINF:-1 ,电视剧
