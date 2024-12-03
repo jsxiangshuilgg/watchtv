@@ -303,4 +303,4 @@ http://ott.mobaibox.com/PLTV/1/224/3221228317/index.m3u8
 #EXTINF:-1 ,地方台
 http://ott.mobaibox.com/PLTV/1/224/3221228448/index.m3u8
 #EXTINF:-1 ,本地live流
-http://192.168.1.253:8080/live
+http://192.168.68.86:8080/live
